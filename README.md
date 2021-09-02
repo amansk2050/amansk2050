@@ -1,15 +1,17 @@
-### Hi there 👋
+### Hi, Welcome to Sheikh Aman's Home. 👋
+
+## You just need to scroll down to explore my home. 😄
+
+**Believe in only one MANTAR:- "CODE WELL TO LIVE WELL"
+Humanity and connecting a new person with a gentle smile are the biggest achievements in my life.**
 
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on Node JS, Postgresql, AWS Lamda function.
+- 🌱 I’m currently learning Blockchain Development.
+- 👯 I’m looking to collaborate on Node as well on Blockchain.
+- 💬 Ask me about anything. If I can answer then it is okay and if not I will learn new thing for sure.
+- 📫 How to reach me [Sheikh Aman](https://www.linkedin.com/in/sk-aman-77a785167/)
+- ⚡ Fun fact: "POPEYE THE SAILOR MAN" is still my favourite cartoon.
 
 📈 languages, operating system and tools used :
 
