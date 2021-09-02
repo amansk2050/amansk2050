@@ -1,6 +1,6 @@
-### Hi, Welcome to Sheikh Aman's Home. 👋
+# Hi, Welcome to Sheikh Aman's Home. 👋
 
-## You just need to scroll down to explore my home. 😄
+### You just need to scroll down to explore my home. 😄
 
 **Believe in only one MANTAR:- "CODE WELL TO LIVE WELL"
 Humanity and connecting a new person with a gentle smile are the biggest achievements in my life.**
