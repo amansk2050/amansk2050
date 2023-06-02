@@ -11,7 +11,7 @@
 - 🔭 I’m currently learning React Js and langchain.
 - 👯 I’m looking to collaborate on Node as well on Blockchain.
 - 💬 Ask me about anything. If I can answer then it is okay and if not I will learn new thing for sure.
-- 📫 How to reach me [Sheikh Aman](https://www.linkedin.com/in/sk-aman-77a785167/)
+- 📫 How to reach me [Sheikh Aman](https://www.linkedin.com/in/amsten/)
 - ⚡ Fun fact: "POPEYE THE SAILOR MAN" is still my favourite cartoon.
 
 📈 languages, operating system and tools used :
