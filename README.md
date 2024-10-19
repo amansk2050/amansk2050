@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently working as Blockchain Developer and Auditor.
+- 🌱 I’m currently working as a Blockchain  and Backend Developer.
 - 🔭 I’m currently learning React Js and langchain.
 - 👯 I’m looking to collaborate on Node as well on Blockchain.
 - 💬 Ask me about anything. If I can answer then it is okay and if not I will learn new thing for sure.
